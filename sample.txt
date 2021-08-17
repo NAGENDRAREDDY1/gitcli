@@ -1,2 +1,3 @@
 hello! welcome to the gitcli.
 hello! good afternoon.
+today is the git cli class
